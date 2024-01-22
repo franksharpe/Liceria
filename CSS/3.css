@@ -1,0 +1,256 @@
+@media only screen and (min-width: 600px){
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .rev{
+    position: absolute;
+    top: 96px;
+    left: 700px;
+    height: 500px;
+    width: 35%;
+
+  }
+  .squaress{
+    height: 40px;
+    width: 2000px;
+    background-color: rgb(237, 229, 221);
+    position: fixed;
+    top: 35px;
+    left: 0px;
+  }    
+  .home{
+    position: fixed;
+    top: 40px;
+    left: 20px;
+  }
+  .locaiton{
+    position: fixed;
+    top: 40px;
+    left: 70px;
+  }
+  .olog{
+    position: fixed;
+    top: 10px;
+    left: 1100px;
+    width: 150px;
+    height: 150px;
+  }
+  .ll{
+    height: 150px;
+    width: 150px;
+  }
+  
+  .mg{
+    position: absolute;
+    width: 1887px;
+    opacity: 40%;
+   
+  }
+  .pg{
+    position: absolute;
+    top: 105px;
+    left:40px;
+    width:600px;
+    height: 450px;
+  }
+  .square{
+    height: 100px;
+    width: 2000px;
+    background-color: rgb(237, 229, 221);
+    position: fixed;
+    top: 750px;
+    left: 0px;
+  }
+  .logo{
+    position: fixed;
+    top: 630px;
+    left: 800px;
+  }
+  .gg{
+    position: fixed;
+    top: 790px;
+    left: 1400px;
+    color: #A07F78;
+    font-size: 20px;
+    }
+  .UI{
+    position: fixed;
+    top: 745px;
+    right: 1500px;
+    color: #A07F78;
+    font-size: 15px;
+  }
+  .tx{
+    position: fixed;
+    top: 15px;
+    right: 20px;
+    color: #A07F78;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .details{
+    position: fixed;
+    right: 610px;
+    bottom: 460px;
+    color: black;
+    font-weight: bold;
+  }
+  .sq{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(237, 229, 221);
+    position: absolute;
+    right: 550px;
+    bottom: 420px;
+  }
+
+  
+  .square{
+    height: 100px;
+    width: 2000px;
+    background-color: rgb(237, 229, 221);
+    position: absolute;
+    top: 600px;
+    left: 0px;
+  }
+  .logo{
+    position: absolute;
+    top: 570px;
+    left: 500px;
+  }
+  .gg{
+    position: absolute;
+    top: 640px;
+    left: 950px;
+    color: #A07F78;
+    font-size: 20px;
+    }
+    .UI{
+      position: absolute;
+      top: 595px;
+      right: 850px;
+      color: #A07F78;
+      font-size: 15px;
+    }
+}
+
+
+
+  @media only screen and (max-width: 600px) {
+   
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .rev{
+      position: absolute;
+      top: 300px;
+      left: 0px;
+      height: 0px;
+      width: 0px;
+  
+    }
+    .squaress{
+      height: 40px;
+      width: 414px;
+      background-color: rgb(237, 229, 221);
+      position: fixed;
+      top: 35px;
+      left: 0px;
+    }    
+    .home{
+      position: fixed;
+      top: 40px;
+      left: 20px;
+    }
+    .locaiton{
+      position: fixed;
+      top: 40px;
+      left: 70px;
+    }
+    .olog{
+      position: fixed;
+      top: 30px;
+      left: 290px;
+      height: 50px;
+      width: 50px;
+    }
+    .ll{
+      height: 80px;
+      width: 80px;
+    }
+    
+    .mg{ 
+      position: absolute;
+      width: 1080px;
+      opacity: 40%;
+      height: 896px;
+      left: -355px;
+      top: -10px;
+      
+    }
+    .pg{
+      position: absolute;
+      top: 150px;
+      left:35px;
+      width: 300px;
+      height: 300px;
+    }
+    .square{
+      height: 50px;
+      width: 414px;
+      background-color: rgb(237, 229, 221);
+      position: absolute;
+      top: 590px;
+      left: 0px;
+    }
+    .logo{
+      position: fixed;
+      top: 570px;
+      left: 150px;
+      width: 100px;
+      height: 100px;
+    }
+    .gg{
+      position: fixed;
+      top: 608px;
+      left: 300px;
+      color: #A07F78;
+      font-size: 12px;
+      }
+    .UI{
+      position: fixed;
+      top: 595px;
+      left: 20px;
+      color: #A07F78;
+      font-size: 5px;
+    }
+    .tx{
+      position: fixed;
+      top: 15px;
+      right: 20px;
+      color: #A07F78;
+      font-size: 30px;
+      font-weight: bold;
+    }
+  
+    .details{
+      position: fixed;
+      right: 610px;
+      bottom: 460px;
+      color: black;
+      font-weight: bold;
+    }
+    .sq{
+      height: 300px;
+      width: 300px;
+      background-color: rgb(237, 229, 221);
+      position: absolute;
+      right: 550px;
+      bottom: 420px;
+    }
+  }
+
+
+  

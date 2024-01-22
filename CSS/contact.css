@@ -1,0 +1,102 @@
+@media only screen and (min-width: 600px){
+.squaress{
+  height: 40px;
+  width: 2000px;
+  background-color: rgb(237, 229, 221);
+  position: absolute;
+  top: 35px;
+  left: 0px;
+}    
+.home{
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  height: 25px;
+  width: 25px;
+}
+.locaiton{
+  position: absolute;
+  top: 40px;
+  left: 70px;
+  height: 25px;
+  width: 25px;
+}
+.olog{
+  position: absolute;
+  top: 10px;
+  left: 1100px;
+  width: 150px;
+  height: 150px;
+}
+  
+.r{
+  height: 25px;
+  width: 25px;
+}
+  
+.b{
+  height: 25px;
+  width: 25px;
+}
+
+.o{
+  width: 150px;
+  height: 150px;
+}
+
+.GG{
+  min-height: 100vh;
+  padding: 2em;
+  margin: auto;
+  max-width: 800px; 
+}
+}
+
+
+@media only screen and (max-width: 600px) {
+  .squaress{
+    height: 50px;
+    width: 600px;
+    background-color: rgb(237, 229, 221);
+    position: absolute;
+    top: 30px;
+    left: 0px;
+  }    
+  .home{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+  }
+  .locaiton{
+    position: absolute;
+    top: 40px;
+    left: 70px;
+  }
+  .olog{
+    position: absolute;
+    top: 10px;
+    left: 260px;
+  }
+    
+  .r{
+    height: 30px;
+    width: 30px;
+  }
+    
+  .b{
+    height: 30px;
+    width: 30px;
+  }
+  
+  .o{
+    width: 100px;
+    height: 100px;
+  }
+  
+  .GG{
+    min-height: 100vh;
+    padding: 2em;
+    margin: auto;
+    max-width: 800px; 
+}
+}
